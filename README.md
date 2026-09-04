@@ -8,7 +8,13 @@ First of all, thanks for visting my profile. Here, what you should know about me
 - I am looking forward to collaborate on Open-Source Projects.
 - I am just trying to impart my knowledge via repositories which will be quite helpful for those who codes in javascript.
 
-  ![javascript](https://img.shields.io/badge/javascript-%2300599C.svg?style=for-the-badge&logo=javascript&logoColor=white) ![Reactjs](https://img.shields.io/badge/react-3670A0?style=for-the-badge&logo=react&logoColor=ffdd54) ![Angular](https://img.shields.io/badge/angular-%23092E20.svg?style=for-the-badge&logo=angular&logoColor=white) ![Nodejs](https://img.shields.io/badge/nodejs-%2300f.svg?style=for-the-badge&logo=nodejs&logoColor=white) ![Expressjs](https://img.shields.io/badge/expressjs-%2300f.svg?style=for-the-badge&logo=expressjs&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+  ![javascript](https://img.shields.io/badge/javascript-%2300599C.svg?style=for-the-badge&logo=javascript&logoColor=white) ![Reactjs](https://img.shields.io/badge/react-3670A0?style=for-the-badge&logo=react&logoColor=ffdd54) ![Angular](https://img.shields.io/badge/angular-%23092E20.svg?style=for-the-badge&logo=angular&logoColor=white) ![Nodejs](https://img.shields.io/badge/nodejs-%2300f.svg?style=for-the-badge&logo=nodejs&logoColor=white) ![Expressjs](https://img.shields.io/badge/expressjs-%2300f.svg?style=for-the-badge&logo=expressjs&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-0984E3?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-D35400?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-E74C3C?style=for-the-badge)
+
 
 ------------------------------
 
